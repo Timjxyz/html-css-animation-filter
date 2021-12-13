@@ -45,5 +45,5 @@
 .ex-8-img:hover{
     overflow: hidden;
     border-radius: 20px;
-    filter: sepia(80%);
+    filter: sepia(80%) saturate(80%);
 }
