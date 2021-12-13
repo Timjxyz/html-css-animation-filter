@@ -23,15 +23,11 @@
 
 /* Esercizio 5 */
 .ex-5-square:hover{
-    width: 100px;
-    height: 100px;
-    
+    transform:scale(2);
 }
 
 .ex-5-square:active{
-    width: 30px;
-    height: 30px;
-   
+    transform:scale(0.5);
 }
 
 /* Esercizio 6 */
