@@ -40,3 +40,10 @@
 .ex-7-img:hover{
     filter: sepia(1);
 }
+
+/* Esercizio 8 */
+.ex-8-img:hover{
+    overflow: hidden;
+    border-radius: 20px;
+    filter: sepia(80%);
+}
