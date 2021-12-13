@@ -35,3 +35,8 @@
 .ex-6-img:hover{
     filter:grayscale(1)
 }
+
+/* Esercizio 7 */
+.ex-7-img:hover{
+    filter: sepia(1);
+}
